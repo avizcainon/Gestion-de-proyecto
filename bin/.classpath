@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="conf/|img/|src/" kind="src" path=""/>
+	<classpathentry kind="lib" path="lib/itextpdf-5.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.30.1.jar"/>
+	<classpathentry kind="lib" path="lib/pdfbox-app-2.0.21.jar"/>
+	<classpathentry kind="lib" path="lib/flatlaf-1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/avizcaino/Downloads/POI 3.6/POI 3.6/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avizcaino/Downloads/POI 3.6/POI 3.6/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avizcaino/Downloads/POI 3.6/POI 3.6/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avizcaino/Downloads/POI 3.6/POI 3.6/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/avizcaino/Downloads/POI 3.6/POI 3.6/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/ventas/Nueva carpeta/home/prog/java_mvn/fiscal/version_1/jpfbatch/dist/jpfbatch.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
